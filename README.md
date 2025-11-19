@@ -1,3 +1,3 @@
 # mindfulapp
 
-A new Flutter project.
+Sample Flutter app. from Simone Alessandria's Flutter Fundamentals course on Pluralsight.
